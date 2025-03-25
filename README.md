@@ -6,6 +6,9 @@ First, run the development server:
 
 ```bash
 npm run dev
+
+npm run slicemachine
+
 # or
 yarn dev
 # or
